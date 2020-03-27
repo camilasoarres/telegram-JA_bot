@@ -1,0 +1,14 @@
+{
+  "name": "ja-bot-api",
+  "version": "1.0.0",
+  "description": "api with names of persons who j.a whould do",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node node_modules/nodemon/bin/nodemon bin/server"
+  },
+  "author": "Camila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bot-ja",
+  "version": "1.0.0",
+  "description": "a bot to ask avirgens group if they do",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilasoarres"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Camila",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
