@@ -1,0 +1,19 @@
+{
+  "name": "telegram-ja_bot",
+  "version": "1.0.0",
+  "description": "bot on telegram that asks JA members if they would",
+  "main": "bot/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilasoarres/telegram-JA_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilasoarres/telegram-JA_bot/issues"
+  },
+  "homepage": "https://github.com/camilasoarres/telegram-JA_bot#readme"
+}
