@@ -2,7 +2,7 @@
   "name": "telegram-ja_bot",
   "version": "1.0.0",
   "description": "bot on telegram that asks JA members if they would",
-  "main": "bot/app.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
