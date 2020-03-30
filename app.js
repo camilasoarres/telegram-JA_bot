@@ -4,6 +4,14 @@ const TelegramBaseController = Telegram.TelegramBaseController;
 const TextCommand = Telegram.TextCommand;
 const chatbot = new Telegram.Telegram('1141948294:AAEuLFBUlpdgU-TumebDzb87JqAOUHtcErM');
 
+// const request = require('request');
+// const port = 'http://localhost:3001';
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 8000;
+}
+// app.listen(port);
+
 const persons = [
   {
     name: 'off: camila?',
